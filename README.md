@@ -1,3 +1,4 @@
 # Esercitazioni SQL - INFORMATICA
-### Vettori Massimo
+> Vettori Massimo
+----
 Ogni esercitazione assegnata per casa possiede la sua cartella personale
