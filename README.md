@@ -1,4 +1,5 @@
 # Esercitazioni SQL - INFORMATICA
 > Vettori Massimo
 ----
-Ogni esercitazione assegnata per casa possiede la sua cartella personale
+Un insieme di esercitazioni di SQL e PHP
+(non contiene tutti gli esercizi fatti)
